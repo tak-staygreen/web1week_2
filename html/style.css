@@ -1,0 +1,18 @@
+body {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#clock {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    font-size: 50px;
+    color: #ff6633;
+    background-color: #ffffcc;
+    border-radius: 1em;
+    padding: 20px;
+    opacity: 0.7;
+}
